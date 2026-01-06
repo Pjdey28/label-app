@@ -23,7 +23,7 @@ body{
 
 .container{
 	max-width: var(--container-width);
-	margin: 40px auto;
+	margin: 20px 80px;
 	padding: 20px;
 }
 
@@ -37,6 +37,7 @@ body{
 	background: var(--card);
 	border-radius: var(--radius);
 	padding: 18px;
+	min-width: 300px;
 	box-shadow: 0 6px 18px rgba(15,23,42,0.06);
 }
 
