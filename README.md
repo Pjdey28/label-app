@@ -9,6 +9,9 @@ The system combines:
 - LLM-based structured reasoning via LangChain and Google Gemini
 - A modern React UI for transparent, user-friendly interpretation
 
+## Live Deployment
+- URL: https://label-app-six.vercel.app
+
 ## Core Capabilities
 - Ingredient analysis from pasted text input
 - OCR-based text extraction from uploaded product label images
